@@ -12,6 +12,6 @@ The project was created as a personal exercise to practice front-end development
 
 ## Technologies Used
 
-- HTML5
+- HTML
 - CSS
 
