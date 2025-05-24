@@ -15,3 +15,4 @@ The project was created as a personal exercise to practice front-end development
 - HTML
 - CSS
 
+![My Google Homepage](homepage.png)
